@@ -14,6 +14,9 @@ Para ello, se utilizará una base muestral de 1220 datos, que forman parte del c
 
 **Las variables del conjunto de datos son:**
 
+
+![](assets/20241027_153837_image.png)
+
 ![](assets/20241027_133617_image.png)
 
 ## Consignas
