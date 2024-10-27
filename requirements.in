@@ -1,0 +1,5 @@
+uv == 0.4.27
+pip == 24.3
+ipykernel == 6.29.5
+pandas == 2.2.3
+numpy == 2.1.2
