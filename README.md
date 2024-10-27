@@ -41,3 +41,25 @@ c) En la clase “Sex”, imputar los datos de manera de poder completar la base
 d) En los casos de las personas de las cuales no se tenga la edad, rellenar los datos con el promedio de edad de aquellos que sí tienen el dato.
 
 e) En la columna embarked, asignar el valor “S” a aquellos datos que se encuentran con valor vacío.
+
+# Cómo utilizar este notebook?
+
+### Instalacion de dependencias:
+
+Recomendamos utilizar el gestor de paquetes UV por su rapidez, siga los siguientes pasos para su instalación:
+
+Con CURL:
+
+`curl -LsSf https://astral.sh/uv/install.sh | sh`
+
+Con Powershell:
+
+`powershell -c "irm https://astral.sh/uv/install.ps1 | iex"`
+
+Para instalar las dependencias, ejecute:
+
+`uv venv`
+
+Para instalar las dependencias en el, ejecute:
+
+`uv pip sync docs/requirements.txt`
