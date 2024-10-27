@@ -45,4 +45,8 @@ Para instalar las dependencias, ejecute:
 
 Para instalar las dependencias en el, ejecute:
 
-`uv pip sync docs/requirements.txt`
+`uv pip sync docs/requirements.txt --no-cache`
+
+También puede utilizar el script de inicialización ´startup.sh´ en su terminal bash:
+
+`source ./startup.sh`
