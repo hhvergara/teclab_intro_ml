@@ -19,27 +19,10 @@ Para ello, se utilizará una base muestral de 1220 datos, que forman parte del c
 ## Consignas
 
 Para realizar los futuros modelos de datos, el primer desafío será preprocesar la base de datos, según las siguientes instrucciones:
-
 a) Describir brevemente la cantidad de valores faltantes para cada una de las variables de la base de datos.
-
 b) En la columna Pclass, completar los valores NA, asignando a las personas a la clase 2.
-
 c) En la clase “Sex”, imputar los datos de manera de poder completar la base solo con los valores “male” y “female”.
-
 d) En los casos de las personas de las cuales no se tenga la edad, rellenar los datos con el promedio de edad de aquellos que sí tienen el dato.
-
-e) En la columna embarked, asignar el valor “S” a aquellos datos que se encuentran con valor vacío.
-
-Para realizar los futuros modelos de datos, el primer desafío será preprocesar la base de datos, según las siguientes instrucciones:
-
-a) Describir brevemente la cantidad de valores faltantes para cada una de las variables de la base de datos.
-
-b) En la columna Pclass, completar los valores NA, asignando a las personas a la clase 2.
-
-c) En la clase “Sex”, imputar los datos de manera de poder completar la base solo con los valores “male” y “female”.
-
-d) En los casos de las personas de las cuales no se tenga la edad, rellenar los datos con el promedio de edad de aquellos que sí tienen el dato.
-
 e) En la columna embarked, asignar el valor “S” a aquellos datos que se encuentran con valor vacío.
 
 # Cómo utilizar este notebook?
