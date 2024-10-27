@@ -2,7 +2,7 @@
 
 **API 1**
 
-**Alumno**: Hector Vergara ([LinkedIn](https://www.linkedin.com/in/hector-vergara/))
+**Autor**: Hector Vergara ([LinkedIn](https://www.linkedin.com/in/hector-vergara/))
 
 ## Situación:
 
@@ -13,9 +13,6 @@ Hoy, en el año 2022, se ha decidido hacer un estudio de ****machine learning **
 Para ello, se utilizará una base muestral de 1220 datos, que forman parte del conjunto de datos, que figura en el archivo adjunto “Titanic_M1.xlsx”.
 
 **Las variables del conjunto de datos son:**
-
-
-![](assets/20241027_153837_image.png)
 
 ![](assets/20241027_133617_image.png)
 
