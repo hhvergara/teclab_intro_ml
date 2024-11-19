@@ -133,9 +133,7 @@ traitlets==5.14.3
     #   jupyter-core
     #   matplotlib-inline
 typing-extensions==4.12.2
-    # via
-    #   -r docs/requirements.in
-    #   ipython
+    # via -r docs/requirements.in
 tzdata==2024.2
     # via pandas
 uv==0.4.27
